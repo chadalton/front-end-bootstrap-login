@@ -1,5 +1,5 @@
 body.login {
-  background-color: rgba(200, 200, 200, 0.664);
+  background-color: rgba(40, 105, 204, 0.863);
 }
 
 .container.login-container {
@@ -7,7 +7,7 @@ body.login {
 }
 
 .card.login-card {
-  background-color: #727171da;
+  background-color: rgba(255, 255, 255, 0.541);
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
   -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
@@ -26,12 +26,14 @@ form.login-form {
 }
 
 button.btn-submit {
-  background-color: rgba(235, 229, 229, 0.808);
-  border: 2px solid black;
+  background-color: rgba(255, 255, 255, 0.541);
+  color: #000;
+  border: 1.3px solid black;
   width: 100%;
 }
 
 .form-group.form-check {
+  color: #000;
   margin-top: 1rem;
   margin-left: 0.3rem;
 }
